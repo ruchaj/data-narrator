@@ -1,0 +1,13 @@
+Month,Revenue,Units_Sold,Returns,Region
+January,125000,432,12,North
+February,98000,387,8,North
+March,143000,521,15,South
+April,167000,598,22,South
+May,112000,401,9,East
+June,189000,672,31,East
+July,201000,714,28,West
+August,178000,634,19,West
+September,156000,558,14,North
+October,213000,759,35,South
+November,245000,871,41,East
+December,298000,1043,52,West
