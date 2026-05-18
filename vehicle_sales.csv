@@ -1,0 +1,16 @@
+Month,Make,Model,Units_Sold,Avg_Price,Revenue,Returns,Customer_Satisfaction,Region
+Jan,Chevrolet,Silverado,1250,42000,52500000,12,4.3,Midwest
+Jan,GMC,Sierra,980,45000,44100000,8,4.5,South
+Jan,Buick,Enclave,420,48000,20160000,3,4.6,East
+Feb,Chevrolet,Silverado,1100,42000,46200000,10,4.2,Midwest
+Feb,GMC,Sierra,870,45000,39150000,7,4.4,South
+Feb,Buick,Enclave,380,48000,18240000,2,4.7,East
+Mar,Chevrolet,Silverado,1450,42500,61625000,15,4.3,Midwest
+Mar,GMC,Sierra,1100,45500,50050000,9,4.5,South
+Mar,Buick,Enclave,510,48500,24735000,4,4.6,East
+Apr,Chevrolet,Silverado,1600,43000,68800000,14,4.4,Midwest
+Apr,GMC,Sierra,1200,46000,55200000,11,4.5,South
+Apr,Buick,Enclave,580,49000,28420000,5,4.7,East
+May,Chevrolet,Silverado,1750,43000,75250000,16,4.4,Midwest
+May,GMC,Sierra,1350,46000,62100000,12,4.6,South
+May,Buick,Enclave,620,49000,30380000,4,4.8,East

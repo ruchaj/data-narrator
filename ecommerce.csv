@@ -1,0 +1,13 @@
+Order_ID,Product,Category,Revenue,Units,Returns,Customer_Rating,Region
+1001,Laptop,Electronics,1200,5,1,4.2,North
+1002,Phone,Electronics,800,12,2,4.5,South
+1003,Desk Chair,Furniture,350,8,0,4.8,East
+1004,Headphones,Electronics,150,25,3,3.9,West
+1005,Standing Desk,Furniture,650,4,1,4.6,North
+1006,Tablet,Electronics,500,10,1,4.3,South
+1007,Keyboard,Electronics,80,30,2,4.1,East
+1008,Monitor,Electronics,400,7,0,4.7,West
+1009,Bookshelf,Furniture,200,6,0,4.4,North
+1010,Webcam,Electronics,90,20,4,3.7,South
+1011,Office Lamp,Furniture,45,15,1,4.0,East
+1012,Gaming Chair,Furniture,450,9,2,4.5,West
